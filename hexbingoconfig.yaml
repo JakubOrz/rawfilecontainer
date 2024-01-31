@@ -5,23 +5,33 @@ easy:
     - "XM Collected"
     - "XM Recharged"
     - "Lifetime AP"
-grindable:
-  min: 20
-  max: 60
+resonators:
+  min: 30
+  max: 110
   names:
     - "Resonators Deployed"
+    - "Glyph Hack Points"
+grindable:
+  min: 10
+  max: 40
+  names:
+    - "Resonators Destroyed"
     - "Mind Units Captured"
+    - "Mods Deployed"
+hacking:
+  min: 20
+  max: 50
+  names:
+    - "Hacks"
 medium:
   min: 10
   max: 30
   names:
     - "Links Created"
-    - "Hacks"
-    - "Portals Neutralized"
     - "Portals Captured"
-    - "Mods Deployed"
     - "Control Fields Created"
-    - "Glyph Hack Points"
-    - "Control Fields Created"
-    - "Enemy Links Destroyed"
-    - "Enemy Fields Destroyed"
+hard: 
+  min: 5
+  max: 10
+  names:
+    - "Portals Neutralized"
