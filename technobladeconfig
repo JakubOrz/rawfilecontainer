@@ -1,0 +1,16 @@
+easy:
+  min: 20000
+  max: 50000
+  names:
+    - "Lifetime AP"
+grindable:
+  min: 10
+  max: 30
+  names:
+    - "Resonators Destroyed"
+    - "Enemy Links Destroyed"
+    - "Enemy Fields Destroyed"
+    - "Portals Captured"
+    - "Portals Neutralized"
+    - "Resonators Deployed"
+    - "Links Created"
