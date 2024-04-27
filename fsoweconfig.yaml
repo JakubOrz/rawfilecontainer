@@ -1,0 +1,35 @@
+easy:
+  min: 20000
+  max: 50000
+  names:
+    - "XM Collected"
+resonators:
+  min: 30
+  max: 110
+  names:
+    - "Resonators Deployed"
+    - "Glyph Hack Points"
+grindable:
+  min: 10
+  max: 40
+  names:
+    - "Resonators Destroyed"
+    - "Mind Units Captured"
+    - "Mods Deployed"
+hacking:
+  min: 20
+  max: 50
+  names:
+    - "Hacks"
+medium:
+  min: 10
+  max: 30
+  names:
+    - "Links Created"
+    - "Portals Captured"
+    - "Control Fields Created"
+hard: 
+  min: 5
+  max: 10
+  names:
+    - "Portals Neutralized"
