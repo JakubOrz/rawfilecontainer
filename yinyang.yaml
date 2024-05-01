@@ -1,0 +1,26 @@
+xm:
+  min: 20000
+  max: 50000
+  names: 
+    - "XM Collected"
+    - "XM Recharged"
+reso:
+  min: 30
+  max: 100
+      - "Resonators Deployed"
+      - "Resonators Destroyed"
+links:
+  min: 10
+  max: 30
+  	- "Links Created"
+  	- "Enemy Links Destroyed"
+fields:
+  min: 8
+  max: 28
+  	- "Control Fields Created"
+  	- "Enemy Fields Destroyed" 	
+portals:
+  min: 10
+  max: 30
+  	- "Portals Captured"
+  	- "Portals Neutralized"
