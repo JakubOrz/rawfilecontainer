@@ -7,20 +7,24 @@ xm:
 reso:
   min: 30
   max: 100
+  names:
     - "Resonators Deployed"
     - "Resonators Destroyed"
 links:
   min: 10
   max: 30
+  names:
     - "Links Created"
     - "Enemy Links Destroyed"
 fields:
   min: 8
   max: 28
+  names:
     - "Control Fields Created"
     - "Enemy Fields Destroyed"
 portals:
   min: 10
   max: 30
+  names:
     - "Portals Captured"
     - "Portals Neutralized"
